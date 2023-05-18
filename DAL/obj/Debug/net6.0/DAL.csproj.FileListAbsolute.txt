@@ -1,0 +1,28 @@
+E:\Gdsc\Gdsc\DAL\bin\Debug\net6.0\DAL.deps.json
+E:\Gdsc\Gdsc\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+E:\Gdsc\Gdsc\DAL\bin\Debug\net6.0\DAL.dll
+E:\Gdsc\Gdsc\DAL\bin\Debug\net6.0\DAL.pdb
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.dll
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\refint\DAL.dll
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.pdb
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+E:\Gdsc\Gdsc\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\Users\SAMAR ELGAMMAL\Documents\Gdsc-2\Gdsc\DAL\obj\Debug\net6.0\ref\DAL.dll
